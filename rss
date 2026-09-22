@@ -5,6 +5,12 @@
         <link>https://ppaapp220022.github.io</link>
         <description>RSS feed</description>
         <item>
+          <title>Next.js 공식 Learn 강좌 완주 후기</title>
+          <link>https://ppaapp220022.github.io/blog/nextjs-learn-course</link>
+          <description>nextjs.org/learn 의 App Router 기초 과정 16장을 끝까지 따라 하며 배운 것과 느낀 점을 정리했습니다.</description>
+          <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+<item>
           <title>첫 글입니다.</title>
           <link>https://ppaapp220022.github.io/blog/vim</link>
           <description>summary</description>
