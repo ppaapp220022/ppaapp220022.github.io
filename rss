@@ -5,6 +5,12 @@
         <link>https://ppaapp220022.github.io</link>
         <description>RSS feed</description>
         <item>
+          <title>테스트가 초록인데 왜 버그가 나올까 — 적대적 코드 리뷰 한 달 회고</title>
+          <link>https://ppaapp220022.github.io/blog/adversarial-code-review-retrospective</link>
+          <description>내가 만든 코드를 일부러 부수는 적대적 코드 리뷰를 한 달 동안 해 봤습니다. 적대적 리뷰가 무엇이고 왜 필요한지, 그리고 그 과정에서 공부한 뮤테이션 테스트와 몇 가지 개념을 정리했습니다.</description>
+          <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+<item>
           <title>Supabase 에서 GKE 로 — Valkey, CNPG, Bun + Drizzle 비교</title>
           <link>https://ppaapp220022.github.io/blog/supabase-to-gke-cnpg-valkey-drizzle</link>
           <description>관리형 스택(Vercel · Supabase)에서 GKE · Valkey · CNPG · Bun + Drizzle 로 옮길 때 각각 무엇이 달라지는지 기능 중심으로 정리했습니다.</description>
