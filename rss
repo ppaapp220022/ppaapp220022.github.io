@@ -5,6 +5,12 @@
         <link>https://ppaapp220022.github.io</link>
         <description>RSS feed</description>
         <item>
+          <title>플랫폼으로 가는 첫걸음 — 파트너라는 새 행위자</title>
+          <link>https://ppaapp220022.github.io/blog/partner-center-platform</link>
+          <description>매장에 기대어 있던 파트너 센터를 매장과 완전히 끊어 내고, 파트너를 독립된 행위자로 세운 작업을 정리했습니다. 왜 그렇게 제안했고 어떤 기준으로 구조를 잡았는지 적었습니다.</description>
+          <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+<item>
           <title>gcloud CLI, 처음부터 공부하는 중</title>
           <link>https://ppaapp220022.github.io/blog/gcloud-cli-study</link>
           <description>GKE 로 옮기고 파드가 늘어나자 로그와 오류를 어디서 찾아야 할지 몰랐습니다. 그래서 gcloud CLI 를 처음부터 공부하고 있고, 지금까지 이해한 만큼 정리했습니다.</description>
