@@ -5,6 +5,12 @@
         <link>https://ppaapp220022.github.io</link>
         <description>RSS feed</description>
         <item>
+          <title>서버 액션과 DB 트리거, 같은 일을 해도 같은 코드가 아니다</title>
+          <link>https://ppaapp220022.github.io/blog/db-trigger-vs-server-action</link>
+          <description>NOT NULL 에러를 DB 트리거로 고치는 PR 을 올렸다가, 피드백을 받고 닫은 뒤 NOT NULL 을 푸는 방향으로 고쳤습니다. 병렬로 작업하는 팀에서 트리거는 다른 사람의 작업에서 실행되고, 그때 어떤 쿼리가 나가는지 그 사람은 알 수 없습니다. 서버 액션과 무엇이 다른지 정리했습니다.</description>
+          <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+<item>
           <title>플랫폼으로 가는 첫걸음 — 파트너라는 새 행위자</title>
           <link>https://ppaapp220022.github.io/blog/partner-center-platform</link>
           <description>매장에 기대어 있던 파트너 센터를 매장과 완전히 끊어 내고, 파트너를 독립된 행위자로 세운 작업을 정리했습니다. 왜 그렇게 제안했고 어떤 기준으로 구조를 잡았는지 적었습니다.</description>
