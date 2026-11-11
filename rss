@@ -5,6 +5,12 @@
         <link>https://ppaapp220022.github.io</link>
         <description>RSS feed</description>
         <item>
+          <title>AI가 만든 SQL, 믿어도 될까? — ERP 자연어 질의 시스템 기획과 기술 선택</title>
+          <link>https://ppaapp220022.github.io/blog/erp-nlq-permission-safe-text-to-sql</link>
+          <description>ERP 데이터를 한국어로 묻는 시스템을 혼자 기획하고 만들었습니다. 무엇을 풀지 어떻게 좁혔는지, 왜 Odoo·PostgreSQL·sqlglot·Claude를 골랐는지, 기획한 대로 된 것과 생각이 바뀐 것을 정리했습니다.</description>
+          <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+<item>
           <title>Server Action의 이해</title>
           <link>https://ppaapp220022.github.io/blog/server-action</link>
           <description>Server Action 을 발표하기 위해 공부하면서 받은 질문들 — 왜 나왔는지, 서버에서 도는데 왜 서버가 아닌지, 메모리와 CPU 는 어떻게 쓰는지, 동기와 비동기가 섞이면 어떻게 되는지 — 에 답하며 정리했습니다.</description>
